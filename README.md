@@ -1,5 +1,3 @@
-# Vedang Ajay Pote
-
 **ROLLNO:- CS21B085**  
 *Indian Institute of Technology Madras*  
 
