@@ -26,7 +26,7 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
 - **Programming Languages**:
   - C, C++,Java, Python (basic)
   - HTML (basic), CSS (basic), Javascript (basic)
-  - Ocaml, SWI_Prolog
+  - Ocaml, SWI-Prolog
 
 - **JEE-Advanced Rank**:
   - Secured category rank 50 (SC-50, 3251 CRL) out of 37500 SC candidates and 1,41,699 total candidates.
