@@ -1,5 +1,7 @@
-**ROLLNO:- CS21B085**  
-*Indian Institute of Technology Madras*  
+**Indian Institute of Technology Madras**
+
+*ROLLNO:- CS21B085*  
+
 
 LinkedIn: [Vedang Pote](https://www.linkedin.com/in/vedang-pote-8445b722a)  
 GitHub: [Vedang085iitm](https://github.com/Vedang085iitm)  
@@ -46,9 +48,17 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
 - Macroeconomics
 - Machine learning from Stanford online
 - Linux
-- Compiler Design*
-- Paradigms Of Programming*
-- Operating Systems*
+- Compiler Design
+- Paradigms Of Programming
+- Operating Systems
+- Algorithmic Approaches Computational Biology
+- GPU Programming
+- Introduction to Database Systems
+- Life Sciences
+- Financial Institutions And Markets
+         -Courses which I am panning to take in semester-7
+              -Pattern Recognition And MAchine Learning
+              - Introduction To Cryptography/ Quantum Alogorithms
 
 ## Major Projects
 - **Searching and Sorting**:
@@ -84,17 +94,18 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
 - **Terminal Simulation**:
   - Simulated the behavior of 4 different Unix terminals: sh, csh, bash, zsh.
 
+-**CS6024 Course Project**
+-Implementation of The Neighbor-Joining Algorithm on CUDA [CS6024_COURSE_PROJECT_PROPOSAL.pdf](https://github.com/Vedang085iitm/new-resume/files/14787170/CS6024_COURSE_PROJECT_PROPOSAL.pdf)
+
+
 ## Positions of Responsibility
 - **Super-Coordinator** at Institute Website Operations and Mobile Operations, IIT Madras (2022-2023)
   - Developed the frontend of students.iitm.ac.in using HTML, CSS, and JavaScript.
   - Collaborated with professional developers for the development of a new website for DOST, focusing on front-end.
+[CS6024_COURSE_PROJECT_PROPOSAL.pdf]
 
 ## Extra-Curricular Achievements
-- Gold Medal in Inter-Hostel Water Polo Championship.
+- Gold And Silver Medal in Inter-Hostel Water Polo Championship.
 - National Player in Taekwondo (Black Belt).
 - Bronze Medal in Maths Olympiad.
 - Appeared in 4(TN) AIR SQN (TECH) NCC in the first year.
-
-
-
-
