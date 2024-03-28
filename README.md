@@ -23,15 +23,18 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
   - Year: 2021
 
 ## Scholastic and Other Relevant Achievements
+- **JEE-Advanced Rank**:
+  - Secured category rank 50 (SC-50, 3251 CRL) out of 37500 SC candidates and 1,41,699 total candidates.
+ 
+## Skills
 - **Programming Languages**:
   - C, C++,Java, Python (basic)
   - HTML (basic), CSS (basic), Javascript (basic)
   - Ocaml, SWI-Prolog
-
-- **JEE-Advanced Rank**:
-  - Secured category rank 50 (SC-50, 3251 CRL) out of 37500 SC candidates and 1,41,699 total candidates.
-
-## Relevant Coursework
+  - LaTeX
+-**Software Libraries**
+ -AutoCAD, git, Bash, Figma, React, Linux
+  ## Relevant Coursework
 - Functions of several Variables
 - Basic Graph Theory
 - Discrete Mathematics For Computer Science
@@ -47,7 +50,6 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
 - Principle Of Economics
 - Macroeconomics
 - Machine learning from Stanford online
-- Linux
 - Compiler Design
 - Paradigms Of Programming
 - Operating Systems
