@@ -39,31 +39,30 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
   - Figma
   - React
   - Linux
- 
-  ## Relevant Coursework
-- Functions of several Variables
-- Basic Graph Theory
-- Discrete Mathematics For Computer Science
-- Series And Matrices
-- Foundation Of Computer System Design
-- Programming And Data Structures
-- Programming And Data Structures Lab
-- Probability Statistics And Stochastic Process
-- Language Machine And Computations
-- Computer Organisation And Architecture
-- Design and Analysis Of Algorithms
-- Object-Oriented Algorithms Implementation
-- Principle Of Economics
-- Macroeconomics
-- Machine learning from Stanford online
-- Compiler Design
-- Paradigms Of Programming
-- Operating Systems
-- Algorithmic Approaches Computational Biology
-- GPU Programming
-- Introduction to Database Systems
-- Life Sciences
-- Financial Institutions And Markets
+## Relevant Coursework
+ - Functions of several Variables
+ - Basic Graph Theory
+ - Discrete Mathematics For Computer Science
+ - Series And Matrices
+ - Foundation Of Computer System Design
+ - Programming And Data Structures
+ - Programming And Data Structures Lab
+ - Probability Statistics And Stochastic Process
+ - Language Machine And Computations
+ - Computer Organisation And Architecture
+ - Design and Analysis Of Algorithms
+ - Object-Oriented Algorithms Implementation
+ - Principle Of Economics
+ - Macroeconomics
+ - Machine learning from Stanford online
+ - Compiler Design
+ - Paradigms Of Programming
+ - Operating Systems
+ - Algorithmic Approaches Computational Biology
+ - GPU Programming
+ - Introduction to Database Systems
+ - Life Sciences
+ - Financial Institutions And Markets
          -Courses which I am panning to take in semester-7
               -Pattern Recognition And MAchine Learning
               - Introduction To Cryptography/ Quantum Alogorithms
