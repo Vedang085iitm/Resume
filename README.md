@@ -97,7 +97,9 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
   - Simulated the behavior of 4 different Unix terminals: sh, csh, bash, zsh.
 
 -**CS6024 Course Project**
--Implementation of The Neighbor-Joining Algorithm on CUDA [CS6024_COURSE_PROJECT_PROPOSAL.pdf](https://github.com/Vedang085iitm/new-resume/files/14787170/CS6024_COURSE_PROJECT_PROPOSAL.pdf)
+
+
+-Implementation of The Neighbor-Joining Algorithm on CUDA  [CS6024_COURSE_PROJECT_PROPOSAL-2.pdf](https://github.com/Vedang085iitm/Resume/files/14787835/CS6024_COURSE_PROJECT_PROPOSAL-2.pdf)
 
 
 ## Positions of Responsibility
@@ -110,4 +112,5 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
 - Gold And Silver Medal in Inter-Hostel Water Polo Championship.
 - National Player in Taekwondo (Black Belt).
 - Bronze Medal in Maths Olympiad.
+
 - Appeared in 4(TN) AIR SQN (TECH) NCC in the first year.
