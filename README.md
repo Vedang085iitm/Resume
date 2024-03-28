@@ -112,7 +112,7 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
 - **Super-Coordinator** at Institute Website Operations and Mobile Operations, IIT Madras (2022-2023)
   - Developed the frontend of students.iitm.ac.in using HTML, CSS, and JavaScript.
   - Collaborated with professional developers for the development of a new website for DOST, focusing on front-end.
-[CS6024_COURSE_PROJECT_PROPOSAL.pdf]
+
 
 ## Extra-Curricular Achievements
 - Gold And Silver Medal in Inter-Hostel Water Polo Championship.
