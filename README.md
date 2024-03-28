@@ -33,12 +33,12 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
   - Ocaml, SWI-Prolog
   - LaTeX
 - **Software Libraries**:
- - AutoCAD
- - git
- - Bash
- - Figma
- - React
- - Linux
+  - AutoCAD
+  - git
+  - Bash
+  - Figma
+  - React
+  - Linux
  
   ## Relevant Coursework
 - Functions of several Variables
