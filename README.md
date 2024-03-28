@@ -32,7 +32,7 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
   - HTML (basic), CSS (basic), Javascript (basic)
   - Ocaml, SWI-Prolog
   - LaTeX
--**Software Libraries**
+**Software Libraries**
  -AutoCAD, git, Bash, Figma, React, Linux
   ## Relevant Coursework
 - Functions of several Variables
