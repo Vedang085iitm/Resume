@@ -63,31 +63,13 @@ IIT Madras Profile: [Vedang Pote](http://www.cse.iitm.ac.in/profile.php?arg=Mjg4
  - Introduction to Database Systems
  - Life Sciences
  - Financial Institutions And Markets
-         -Courses which I am panning to take in semester-7
-              -Pattern Recognition And MAchine Learning
+ - Courses which I am panning to take in semester-7
+   
+              -Pattern Recognition And Machine Learning
               - Introduction To Cryptography/ Quantum Alogorithms
 
+         
 ## Major Projects
-- **Searching and Sorting**:
-  - Searched in array input in O(N) time complexity and sorted in non-decreasing order in O(logN) time complexity.
-
-- **Document Indexing**:
-  - Generated indices in increasing order for user input strings in O(NlogN) time complexity.
-
-- **Anomaly Sort**:
-  - Designed a new O(N) time complexity algorithm for sorting which works on almost sorted inputs.
-
-- **Dictionary Sorting**:
-  - Sorted words in dictionary order in O(NK) time complexity.
-
-- **Travel Planner**:
-  - Implemented a program to help plan travels.
-
-- **Book Indexing**:
-  - Generated the index for a book using a sequence of index entries.
-
-- **Map and Fold**:
-  - Implemented template functions map and fold using STL transform algorithm.
 
 - **DNA Genome Sequencing**:
   - Checked whether a DNA genome is infected by a disease using tries.
